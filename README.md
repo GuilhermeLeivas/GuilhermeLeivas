@@ -29,8 +29,8 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeleivas&show_icons=true&locale=en&layout=compact" 
-     alt="guilhermeleivas"  width="405"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=guilhermeleivas&show_icons=true&locale=en" 
      alt="guilhermeleivas"  width="410"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=guilhermeleivas&show_icons=true&locale=en" 
+     alt="guilhermeleivas"  width="415"/>
 </div>
 
