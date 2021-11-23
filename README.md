@@ -53,7 +53,7 @@ height="40"/>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a>
 </div>
-<br><br>
+<br>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeleivas&show_icons=true&locale=en&layout=compact" 
      alt="guilhermeleivas"  width="410"/>
