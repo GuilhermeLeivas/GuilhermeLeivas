@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div style="display: flex;justify-content: space-between;width: 75%;">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
@@ -52,7 +52,7 @@ height="40"/>
 </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a>
-</p>
+</div>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeleivas&show_icons=true&locale=en&layout=compact" 
