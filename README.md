@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **guilhermeleivas@protonmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1p67A243oK8jl7cv31JFQcCXA9_LwYQXwSVFxBqju88M/edit?usp=sharing](https://docs.google.com/document/d/1p67A243oK8jl7cv31JFQcCXA9_LwYQXwSVFxBqju88M/edit?usp=sharing)
+- 📄 Know about my experiences **You may like to take a look at my resume on Linkedin linkedin.com/in/guilherme-leivas-ti**
 
 - ⚡ Fun fact **Light takes about 6 nanoseconds to go from our feet up to our eyes, so everytime you look down at your feet you're actually seeing their past.**
 
